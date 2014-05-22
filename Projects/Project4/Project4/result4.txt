@@ -1,0 +1,49 @@
+              Ivars Akmentins         CSC 36000     Section 11
+                   Spring 2013       Assignment #4
+----------------------------------------------------------------------
+
+The order of customer arrival is:    |     The order of customer departure is:
+     Bill Gateway                    |          Ellen Hayes              
+     Wanda Moore                     |          Hedda Lettuce            
+     Ellen Hayes                     |          Dale Evens               
+     Dale Evens                      |          Sam Spade                
+     Hedda Lettuce                   |          Wanda Moore              
+     Tom Terrific                    |          Donnie Moste             
+     Donnie Moste                    |          Davy Jones               
+     Lonnie Anderson                 |          Tom Terrific             
+     Yogi Bear                       |          Dana Andrews             
+     Sam Spade                       |          Bill Gateway             
+     Dolly Madison                   |          Albert Pujols            
+     Davy Jones                      |          Yogi Bear                
+     Albert Pujols                   |          Tom Heart                
+     Tom Heart                       |          Lonnie Anderson          
+     Dana Andrews                    |          Ron DeVous               
+     Freddie Freeloader              |          Johnny Unites            
+     Johnny Unites                   |          Ada Lovelace             
+     Henry Smith                     |          Charles Babbage          
+     Ron DeVous                      |          Cal Ripkin               
+     Ron Reagan                      |          Ron Reagan               
+     Charles Babbage                 |          Henry Smith              
+     Ada Lovelace                    |          Dolly Madison            
+     Cal Ripkin                      |          Mickey Mouse             
+     Mickey Mouse                    |          Abe Lincoln              
+     Donald Duck                     |          Ira Hayes                
+     Johnny Walker                   |          Freddie Freeloader       
+     Ira Hayes                       |          Yosemite Sam             
+     Yosemite Sam                    |          Nice Guy                 
+     Abe Lincoln                     |          Duddly DoRight           
+     Duddly DoRight                  |          Johnny Walker            
+     Alexander Bell                  |          Donald Duck              
+     Nice Guy                        |          Ross Overbeek            
+     Ima Hoge                        |          Ima Hoge                 
+     Vincent Price                   |          Doctor Pepper            
+     Doctor Pepper                   |          Alexander Bell           
+     Peter Pann                      |          Barbara Blum             
+     Ross Overbeek                   |          James Garfield           
+     Barbara Blum                    |          Kathy Quashknock         
+     Kathy Quashknock                |          Vincent Price            
+     James Garfield                  |          Peter Pann               
+
+ --------------------------------- 
+|      END OF PROGRAM OUTPUT      |
+ --------------------------------- 
