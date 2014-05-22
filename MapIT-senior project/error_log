@@ -1,0 +1,2 @@
+[17-Apr-2014 02:28:43 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/ivarqxyg/public_html/MapIT/Welcome.php on line 4
+[17-Apr-2014 02:28:45 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/ivarqxyg/public_html/MapIT/Welcome.php on line 4
